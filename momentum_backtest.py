@@ -12,7 +12,7 @@ import numpy as np
 
 # === CONFIG ===
 API_KEY = "INSERT_YOUR_KEY_HERE"
-TICKER = "SPY"  # ETF qui réplique le S&P500
+TICKER = "SPY"  # ETF replicating the S&P500
 URL = f"https://financialmodelingprep.com/api/v3/historical-price-full/{TICKER}?apikey={API_KEY}"
 
 # === GET DATA ===
