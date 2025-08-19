@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # === CONFIG ===
-API_KEY = "Xqz3Plda2PdzuAZysmLeR1qL4dsFAcwd"
+API_KEY = "INSERT_YOUR_KEY_HERE"
 TICKER = "SPY"  # ETF qui réplique le S&P500
 URL = f"https://financialmodelingprep.com/api/v3/historical-price-full/{TICKER}?apikey={API_KEY}"
 
